@@ -1,5 +1,6 @@
 # fixbadwebfiles
-Simple bash script to remove files with bad extensions and create an Apache "whitelist" for extensions
+Simple bash script to remove files with bad extensions and create an Apache "whitelist" for extensions. Also see 
+https://isc.sans.edu/diary.html?storyid=21937
 
 MAKE BACKUPS OF ALL FILES BEFORE RUNNING THESE SCRIPTS
 
