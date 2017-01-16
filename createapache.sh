@@ -2,10 +2,7 @@
 
 goodextfile=/etc/httpd/goodext.txt
 
-echo '<Files ~ "^.*$">
-   Order allow,deny
-   Deny from all
-</Files>
+echo 'deny from all
 '
 
 for b in `cat $goodextfile`; do
